@@ -112,7 +112,7 @@ SMOTE (Synthetic Minority Oversampling Technique) was used to generate synthetic
 
 ## SMOTE Distribution
 
-![SMOTE Distribution](images/smote_distribution.png)
+![SMOTE Distribution](images/class_distribution_after_smote.png)
 
 ---
 
@@ -157,7 +157,7 @@ The models were evaluated using:
 
 # 📉 ROC Curve Comparison
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve_comparison.png)
 
 The ROC Curve comparison demonstrates the performance difference between all implemented models.
 
@@ -177,7 +177,7 @@ SHAP (SHapley Additive exPlanations) was used to interpret model predictions and
 
 ## SHAP Analysis
 
-![SHAP Analysis](images/shap_analysis.png)
+![SHAP Analysis](images/shap_summary_plot.png)
 
 This improves transparency and interpretability of the fraud detection system.
 
