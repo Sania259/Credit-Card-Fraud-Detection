@@ -165,8 +165,6 @@ The ROC Curve comparison demonstrates the performance difference between all imp
 
 # 📊 Model Comparison
 
-![Model Comparison](images/model_comparison.png)
-
 XGBoost achieved the best overall performance in detecting fraudulent transactions.
 
 ---
@@ -176,8 +174,6 @@ XGBoost achieved the best overall performance in detecting fraudulent transactio
 SHAP (SHapley Additive exPlanations) was used to interpret model predictions and understand feature importance.
 
 ## SHAP Analysis
-
-![SHAP Analysis](images/shap_summary_plot.png)
 
 This improves transparency and interpretability of the fraud detection system.
 
