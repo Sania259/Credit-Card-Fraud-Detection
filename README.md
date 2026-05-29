@@ -185,13 +185,12 @@ This improves transparency and interpretability of the fraud detection system.
 
 # 📌 Results
 
-| Model               | Accuracy | Precision | Recall | ROC-AUC |
-| ------------------- | -------- | --------- | ------ | ------- |
-| Logistic Regression | XX%      | XX%       | XX%    | XX      |
-| Random Forest       | XX%      | XX%       | XX%    | XX      |
-| XGBoost             | XX%      | XX%       | XX%    | XX      |
+| Model               | Accuracy    | Precision | Recall     | ROC-AUC    |
+| ------------------- | --------    | --------- | ------     | -------    |
+| Logistic Regression | 0.946000    | 0.973800  | 0.916800   | 0.989000   |
+| Random Forest       | 0.999900    | 0.99970   | 1.000000   | 1.000000   |
+| XGBoost             | 0.999700    | 0.999400  | 1.000000   | 1.000000   |
 
-> Replace the placeholder values above with your actual project results.
 
 ---
 
